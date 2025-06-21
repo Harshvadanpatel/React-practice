@@ -32,7 +32,7 @@ function App() {
 
   const passwordClipBord = useCallback(()=>{
     passwordRef.current?.select()
-    passwordRef.current?.setSelectionRange(0, 103)
+    // passwordRef.current?.setSelectionRange(0, 103)
     window.navigator.clipboard.writeText(Password)
   },[Password])
 
