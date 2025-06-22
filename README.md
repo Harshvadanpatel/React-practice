@@ -74,19 +74,3 @@ It helps me stay motivated and grow as a developer 🙏
 This is just the beginning! I’ll keep adding new apps — calculators, to-do lists, weather apps, and more.
 
 Stay connected 🌟
-
-markdown
-Copy
-Edit
-
----
-
-### 📌 How to Add This:
-
-1. Open your repo: [https://github.com/Harshvadanpatel/React-practice](https://github.com/Harshvadanpatel/React-practice)
-2. Click the `README.md` file
-3. Click the ✏️ **pencil (edit)** icon
-4. Replace the existing content with the copied content
-5. Scroll down and click **Commit changes**
-
-Let me know if you'd like me to create a **banner** or **markdown badges** for your README!
