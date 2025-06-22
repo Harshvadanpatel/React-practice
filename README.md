@@ -11,8 +11,8 @@ Each project is organized into its own folder and is deployed live — check the
 
 | Project Name             | Description                                                       | Live Demo |
 |--------------------------|-------------------------------------------------------------------|-----------|
-| **Currency Converter**   | Convert between currencies using a real-time exchange rate API    | [🔗 View](https://react-practice-chi-opal.vercel.app/) |
-| **Background Changer**   | Click buttons to instantly change the background color dynamically| [🔗 View](https://react-practice-ghtp.vercel.app/) |
+| **Currency Converter**   | Convert between currencies using a real-time exchange rate API    | [🔗 View](https://react-practice-ghtp.vercel.app/) |
+| **Background Changer**   | Click buttons to instantly change the background color dynamically| [🔗 View](https://react-practice-chi-opal.vercel.app/) |
 | **Password Generator**   | Generate secure, random passwords with options for length & rules | [🔗 View](https://react-practice-pg.vercel.app/) |
 
 ---
@@ -55,6 +55,7 @@ npm install
 
 # 4. Run the app
 npm start
+
 📸 Screenshots (Coming Soon)
 ![Screenshot 2025-06-22 102039](https://github.com/user-attachments/assets/ad3d4f62-e117-4cd5-90f6-30174e273119)
 ![Screenshot 2025-06-22 102059](https://github.com/user-attachments/assets/9bf3a28f-2d4c-489b-a831-7368397b328f)
