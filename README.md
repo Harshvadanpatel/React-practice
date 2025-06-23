@@ -14,7 +14,7 @@ Each project is organized into its own folder and is deployed live — check the
 | **Currency Converter**   | Convert between currencies using a real-time exchange rate API    | [🔗 View](https://react-practice-ghtp.vercel.app/) |
 | **Background Changer**   | Click buttons to instantly change the background color dynamically| [🔗 View](https://react-practice-chi-opal.vercel.app/) |
 | **Password Generator**   | Generate secure, random passwords with options for length & rules | [🔗 View](https://react-practice-pg.vercel.app/) |
-| **Theme Switcher**       | Toggle light/dark theme using React Context API                   | [🔗 View](https://react-practice-4qzn.vercel.app/) |
+| **Theme Switcher**       | Toggle light/dark theme using React Context API                   | [🔗 View](https://react-practice-anss.vercel.app/) |
 | **React Router Demo**    | Multi-page navigation using React Router v6                       | [🔗 View](https://react-practice-4qzn.vercel.app/) |
 
 ---
