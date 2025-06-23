@@ -14,21 +14,21 @@ Each project is organized into its own folder and is deployed live — check the
 | **Currency Converter**   | Convert between currencies using a real-time exchange rate API    | [🔗 View](https://react-practice-ghtp.vercel.app/) |
 | **Background Changer**   | Click buttons to instantly change the background color dynamically| [🔗 View](https://react-practice-chi-opal.vercel.app/) |
 | **Password Generator**   | Generate secure, random passwords with options for length & rules | [🔗 View](https://react-practice-pg.vercel.app/) |
+| **Theme Switcher**       | Toggle light/dark theme using React Context API                   | [🔗 View](https://react-practice-4qzn.vercel.app/) |
+| **React Router Demo**    | Multi-page navigation using React Router v6                       | [🔗 View](https://react-practice-4qzn.vercel.app/) |
 
 ---
 
 ## 📁 Folder Structure
 
-React-practice/
-├── currency-app/ # Currency converter using custom hook and public API
-├── bgchanger/ # Background color changer app
-├── password-generator/ # Strong password generator app
-├── README.md
+React-practice/  
+├── currency-app/             # Currency converter using custom hook and public API  
+├── bgchanger/               # Background color changer app  
+├── password-generator/      # Strong password generator app  
+├── themeswitcher/           # Theme switcher using React Context API  
+├── reactRouter/             # Demo for React Router v6  
+├── README.md  
 └── ...
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -48,18 +48,17 @@ Edit
 git clone https://github.com/Harshvadanpatel/React-practice.git
 
 # 2. Navigate to any project folder
-cd React-practice/currency-app  # or bgchanger, password-generator
+cd React-practice/currency-app  # or bgchanger, password-generator, themeswitcher, reactRouter
 
 # 3. Install dependencies
 npm install
 
 # 4. Run the app
 npm start
-
 📸 Screenshots (Coming Soon)
-![Screenshot 2025-06-22 102039](https://github.com/user-attachments/assets/ad3d4f62-e117-4cd5-90f6-30174e273119)
-![Screenshot 2025-06-22 102059](https://github.com/user-attachments/assets/9bf3a28f-2d4c-489b-a831-7368397b328f)
-![Screenshot 2025-06-22 102127](https://github.com/user-attachments/assets/42d84b0a-dbab-435e-9e6c-206648ca363b)
+
+
+
 
 
 🙋‍♂️ Author
